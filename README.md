@@ -3,4 +3,6 @@ CONTEÚDO EXTERNO CSS
 
 
 <!-- <Colocar Imagem no arquivo Readme.md do GitHub> -->
-![Imagem Notebook](./download.jpg)
+![Imagem Muito Legal Notebook](./download.jpg)
+
+<img src="./download.jpg" alt="Imagem por HTML">
