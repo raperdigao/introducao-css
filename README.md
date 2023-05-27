@@ -2,5 +2,5 @@
 CONTEÚDO EXTERNO CSS
 
 
-<!-- <img src="/Imagens/download.jpg"> -->
+<!-- <Colocar Imagem no arquivo Readme.md do GitHub> -->
 ![Imagem Notebook](./download.jpg)
