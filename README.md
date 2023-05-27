@@ -2,4 +2,5 @@
 CONTEÚDO EXTERNO CSS
 
 
-![Imagem Notebook] (Imagem/Notebook)
+<img src="Imagem/download.jpg">
+<!-- ![Imagem Notebook] (Imagem/Notebook) -->
